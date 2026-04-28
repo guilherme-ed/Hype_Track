@@ -35,7 +35,7 @@ O **Hype Track** é um dashboard interativo de análise de sentimentos e engajam
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/hype-track.git
+git clone https://github.com/guilherme-ed/hype-track.git
 cd hype-track
 ```
 
